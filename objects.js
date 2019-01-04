@@ -1,1 +1,1 @@
-var playlist = {Masego: Sunday Vibes}
+var playlist = new Object({Masego: Sunday Vibes})
