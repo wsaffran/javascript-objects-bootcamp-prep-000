@@ -1,7 +1,7 @@
 
 var playlist = new Object({Masego: 'Sunday Vibes'})
 
-function updatePlaylist(p, aN, sT) {
-  p.aN = sT
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist['artistName'] = 'songTitle'
   return playlist
 }
